@@ -2,8 +2,8 @@
 	"name" : "text_input",
 	"version" : 1,
 	"creationdate" : 3797723175,
-	"modificationdate" : 3797723175,
-	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
+	"modificationdate" : 3797813364,
+	"viewrect" : [ 0.0, 62.0, 1440.0, 804.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -14,6 +14,16 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"textprocess.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"textsynth.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
