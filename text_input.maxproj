@@ -2,8 +2,8 @@
 	"name" : "text_input",
 	"version" : 1,
 	"creationdate" : 3797723175,
-	"modificationdate" : 3797891514,
-	"viewrect" : [ 272.0, 140.0, 308.0, 804.0 ],
+	"modificationdate" : 3797963987,
+	"viewrect" : [ 51.0, 186.0, 308.0, 804.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -16,6 +16,11 @@
 				"toplevel" : 1
 			}
 ,
+			"textdrum.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"textprocess.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
@@ -26,7 +31,12 @@
 				"local" : 1
 			}
 ,
-			"textdrum.maxpat" : 			{
+			"fade_delay.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"fade_delay_simple.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
