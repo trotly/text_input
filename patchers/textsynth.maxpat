@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 0.0, 0.0, 640.0, 480.0 ],
+		"rect" : [ 59.0, 107.0, 640.0, 480.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -43,10 +43,10 @@
 					"id" : "obj-3",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 2,
-					"outlettype" : [ "float", "float" ],
-					"patching_rect" : [ 56.643357217311859, 55.944056510925293, 61.0, 22.0 ],
-					"text" : "unpack f f"
+					"numoutlets" : 4,
+					"outlettype" : [ "float", "float", "", "" ],
+					"patching_rect" : [ 56.643357217311859, 55.944056510925293, 79.0, 22.0 ],
+					"text" : "unpack f f s s"
 				}
 
 			}

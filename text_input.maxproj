@@ -2,8 +2,8 @@
 	"name" : "text_input",
 	"version" : 1,
 	"creationdate" : 3797723175,
-	"modificationdate" : 3797813364,
-	"viewrect" : [ 0.0, 62.0, 1440.0, 804.0 ],
+	"modificationdate" : 3797891514,
+	"viewrect" : [ 272.0, 140.0, 308.0, 804.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -25,6 +25,11 @@
 				"kind" : "patcher",
 				"local" : 1
 			}
+,
+			"textdrum.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 
@@ -35,6 +40,13 @@
 	}
 ,
 	"searchpath" : 	{
+		"0" : 		{
+			"bootpath" : "Z:/code-music/samples_for_maxmsp",
+			"label" : "",
+			"recursive" : 1,
+			"enabled" : 1,
+			"includeincollective" : 1
+		}
 
 	}
 ,
